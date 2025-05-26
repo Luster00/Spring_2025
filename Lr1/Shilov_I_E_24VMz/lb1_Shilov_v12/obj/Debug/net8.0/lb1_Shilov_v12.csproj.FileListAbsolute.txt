@@ -1,0 +1,14 @@
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\bin\Debug\net8.0\lb1_Shilov_v12.exe
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\bin\Debug\net8.0\lb1_Shilov_v12.deps.json
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\bin\Debug\net8.0\lb1_Shilov_v12.runtimeconfig.json
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\bin\Debug\net8.0\lb1_Shilov_v12.dll
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\bin\Debug\net8.0\lb1_Shilov_v12.pdb
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\lb1_Shilov_v12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\lb1_Shilov_v12.AssemblyInfoInputs.cache
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\lb1_Shilov_v12.AssemblyInfo.cs
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\lb1_Shilov_v12.csproj.CoreCompileInputs.cache
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\lb1_Shilov_v12.dll
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\refint\lb1_Shilov_v12.dll
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\lb1_Shilov_v12.pdb
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\lb1_Shilov_v12.genruntimeconfig.cache
+C:\Users\silov\Desktop\lb1_Shilov_v12\lb1_Shilov_v12\obj\Debug\net8.0\ref\lb1_Shilov_v12.dll

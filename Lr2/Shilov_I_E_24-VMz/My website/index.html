@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <div class="nav-container">
+            <div class="logo">Мой сайт</div>
+            <div class="nav-links">
+                <a href="#home" class="nav-link active">Главная</a>
+                <a href="#about" class="nav-link">О нас</a>
+                <a href="#contact" class="nav-link">Контакты</a>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section id="home" class="page active">
+            <h1>Добро пожаловать</h1>
+            <div class="hero-container">
+                <p>Это тестовый сайт</p>
+                <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80" alt="Компьютер с кодом" class="hero-image">
+            </div>
+        </section>
+
+        <section id="about" class="page">
+            <h1>О нас</h1>
+            <p>Сайт создан для демонстрации работы с HTML, CSS и JavaScript.</p>
+        </section>
+
+        <section id="contact" class="page">
+            <h1>Контакты</h1>
+            <p>Свяжитесь с нами:</p>
+            <form>
+                <input type="text" placeholder="Ваше имя">
+                <input type="email" placeholder="Email">
+                <textarea placeholder="Ваше сообщение"></textarea>
+                <button type="submit">Отправить</button>
+            </form>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html> 
